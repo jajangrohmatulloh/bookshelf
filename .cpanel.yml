@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/u7761749/public_html/projects/bookshelf/
-    - /bin/cp -R * $DEPLOYPATH
